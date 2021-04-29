@@ -27,6 +27,6 @@
     計算各點之 fitness，並找到 pBest 及 gBest；且依據下列公式更新速度
     <img width="656" alt="Screen Shot 2021-04-29 at 8 40 59 PM" src="https://user-images.githubusercontent.com/32695855/116552172-52a27b00-a92b-11eb-9c36-101712b6183f.png">
 
-    [Move]
+    [Move]  
     依據下列公式更新粒子之位置  
     <img width="132" alt="Screen Shot 2021-04-29 at 8 41 09 PM" src="https://user-images.githubusercontent.com/32695855/116552269-6c43c280-a92b-11eb-9aea-ae8e46dcfa90.png">
