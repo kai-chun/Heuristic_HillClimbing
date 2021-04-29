@@ -1,6 +1,13 @@
 # Heuristic Algorithm
 
-## HillClimbing
+## Hill Climbing
 The implementation of Hill Climbing algorithm in C++
+  
+## Simulated Annealing
+The implementation of Simulated Annealing algorithm in C++
 
-## Anneal
+## MonteCarlo
+Use MonteCarlo algorithm to compute PI in C++
+
+## Differential Evolution
+The implementation of Differential Evolution algorithm in C++
