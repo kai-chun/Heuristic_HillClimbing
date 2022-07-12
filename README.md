@@ -1,4 +1,4 @@
-# Heuristic Algorithm
+# Metaheuristic Algorithm
 
 ## Hill Climbing
 The implementation of Hill Climbing algorithm in C++
